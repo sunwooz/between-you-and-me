@@ -110,6 +110,7 @@ GEM
     minitest (4.7.5)
     multi_json (1.9.2)
     oauth (0.4.7)
+    pg (0.17.1)
     polyglot (0.3.4)
     private_pub (1.0.3)
       faye
@@ -202,6 +203,7 @@ DEPENDENCIES
   jbuilder (~> 1.2)
   jquery-rails
   jquery-ui-rails
+  pg
   private_pub
   pry
   quiet_assets

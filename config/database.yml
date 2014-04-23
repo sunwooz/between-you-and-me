@@ -21,8 +21,8 @@ test:
 production:
   adapter: postgresql
   encoding: unicode
-  database: between_you_and_me
+  database: between22
   pool: 5
-  username: between
+  username: between2
   password: password1
 
